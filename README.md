@@ -1,19 +1,6 @@
 <h1 align="center">Привет 👋, Меня зовут Айдар</h1>
 <h3 align="center">Python-разработчик из Мурманска</h3>
 
-
-<p align="center">
-  <a href="[ссылка или портфолио]">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="[[https://t.me/aydar_zh](https://t.me/aydar_zh)]">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:[почта]">
-    <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru">
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Мой технологический стек:
