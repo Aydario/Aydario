@@ -6,7 +6,7 @@
   <a href="[ссылка или портфолио]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
-  <a href="[[[ссылка на Telegram](https://t.me/aydar_zh)](https://t.me/aydar_zh)]">
+  <a href="[[https://t.me/aydar_zh](https://t.me/aydar_zh)]">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:[почта]">
