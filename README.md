@@ -1,9 +1,6 @@
 <h1 align="center">Привет 👋, Меня зовут Айдар</h1>
 <h3 align="center">Python-разработчик из Мурманска</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Python+Django+Backend+Developer;Люблю+создавать+полезные+API;Увлеченный+исследователь+Linux" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
   <a href="[ссылка или портфолио]">
